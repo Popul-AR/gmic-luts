@@ -2,7 +2,7 @@
 
 This project translates the built-in GMIC LUTs to various formats, using a bash script. Preview images are generated for human eyes.
 
-If you just want to download the generated LUTs, (TODO: link to generated files)
+[Download the collection](https://drive.google.com/uc?export=download&id=1YN0Q-nrsw50A5-FgWNWaDvBMm2eyNpRG)
 
 ![collection](./docs/collection.jpg)
 
