@@ -1,6 +1,6 @@
 # GMIC LUTs
 
-This project translates the built-in GMIC LUTs to various formats, using a bash script. Preview images are generated for human eyes.
+This project translates the built-in [GMIC LUTs](https://gmic.eu/color_presets/) to various formats, using a bash script. Preview images are generated for human eyes.
 
 [Download the collection](https://drive.google.com/uc?export=download&id=1YN0Q-nrsw50A5-FgWNWaDvBMm2eyNpRG)
 
