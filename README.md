@@ -14,11 +14,11 @@ This project translates the built-in [GMIC LUTs](https://gmic.eu/color_presets/)
 
 ### Cube32: Spark AR native format
 
-<img width="200" alt="neutral-hald8" src="./neutral-luts/neutral-hald8.jpg">
+<img width="200" alt="neutral-cube32" src="./neutral-luts/neutral-cube32.png">
 
 ### Hald8: GMIC and ImageMagick format
 
-<img width="200" alt="neutral-cube32" src="./neutral-luts/neutral-cube32.png">
+<img width="200" alt="neutral-hald8" src="./neutral-luts/neutral-hald8.jpg">
 
 ### Hypercube: Spark AR FastColorLUT format (and common webgl)
 
